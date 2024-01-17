@@ -1,8 +1,10 @@
 function App() {
   return (
-    <>
-      <h1>Games !</h1>
-    </>
+    <div className="text-center p-4">
+      <h1 className="text-3xl font-bold underline">
+        Hello, React avec Tailwind!
+      </h1>
+    </div>
   );
 }
 
